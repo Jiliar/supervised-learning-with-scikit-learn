@@ -3,7 +3,7 @@
 Este repositorio contiene notebooks, datos y recursos del curso **"Supervised Learning with scikit-learn"** de DataCamp, aplicando técnicas de aprendizaje automático para resolver problemas de clasificación y regresión utilizando el conjunto de herramientas de `scikit-learn`.
 
 ## 📁 Estructura del Proyecto
-
+```
 .
 ├── code/
 │   ├── 1. Modelo Supervisado - Clasificación.ipynb
@@ -24,8 +24,7 @@ Este repositorio contiene notebooks, datos y recursos del curso **"Supervised Le
 │   └── telecom_churn_clean.csv
 ├── poetry.lock
 ├── pyproject.toml
-└── project_structure.txt
-
+```
 ## 📚 Contenidos del Curso
 
 Este proyecto cubre:

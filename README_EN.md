@@ -25,7 +25,6 @@ This repository contains notebooks, data, and resources from the **"Supervised L
 │   └── telecom_churn_clean.csv
 ├── poetry.lock
 ├── pyproject.toml
-└── project_structure.txt
 ```
 
 ## 📚 Course Contents
