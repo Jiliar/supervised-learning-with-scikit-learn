@@ -57,7 +57,7 @@ Este proyecto cubre:
 
 Puedes ver el certificado del curso en el siguiente enlace:
 
-🔗 [Certificado DataCamp - Introducción al Aprendizaje Supervisado](https://www.datacamp.com/completed/statement-of-accomplishment/course/e823e62ba8f2dd25a1dfc0d6889bfba34d66e854)
+🔗 [Certificado DataCamp - Introducción al Aprendizaje Supervisado](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
 
 ## 🔗 Repositorio
 

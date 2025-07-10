@@ -59,7 +59,7 @@ This project covers:
 
 Check out the course certificate at:
 
-🔗 [DataCamp Certificate - Supervised Learning with scikit-learn](https://www.datacamp.com/completed/statement-of-accomplishment/course/e823e62ba8f2dd25a1dfc0d6889bfba34d66e854)
+🔗 [DataCamp Certificate - Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
 
 ## 🔗 Repository
 
